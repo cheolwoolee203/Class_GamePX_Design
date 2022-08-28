@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.내프로젝트3-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/IIIXR3/Documents/카카오톡 받은 파일/내프로젝트3_수정/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "내프로젝트3-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}
