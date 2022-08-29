@@ -14,7 +14,7 @@ W,A,S,D를 사용해 화면의 좌우에서 날라오는 새를 피하는 게임
 spawner actor를 통해 새를 생성하고 새는 지정된 방향으로 움직이는 기능,
 화면밖으로 나가면 삭제되는 기능을 구현했습니다
 
-2. 
+2. Platformer Game
 ![platformer](https://user-images.githubusercontent.com/71004742/187076019-f88339d8-81a9-49e9-8b57-aa59fb087f15.JPG)
 W,A,S,D를 사용해 이동을 하며 space bar를 이용해 점프를, 마우스 오른쪽 버튼을 이용하여 적을 공격하는 platformer게임입니다
 
